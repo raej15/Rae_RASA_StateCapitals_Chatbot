@@ -37,7 +37,7 @@ rules:
 - rule: Give calfornia capitol
   steps:
   - intent: capital_calfornia
-  - action: utter_calfornia
+  - action: utter_california
 
 - rule: Give colorado capitol
   steps:
