@@ -34,9 +34,9 @@ rules:
   - intent: capital_arkansas
   - action: utter_arkansas
 
-- rule: Give calfornia capitol
+- rule: Give california capitol
   steps:
-  - intent: capital_calfornia
+  - intent: capital_california
   - action: utter_california
 
 - rule: Give colorado capitol
