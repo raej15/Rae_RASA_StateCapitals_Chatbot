@@ -96,3 +96,10 @@ nlu:
     - fine
     - I am just okay
     - my day is boring
+
+- intent: capital_alabama
+  examples: |
+    - what is the capitol of alabama
+    - alabama capitol
+    - capitol of alabama
+    - alabama

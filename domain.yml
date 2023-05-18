@@ -8,7 +8,10 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+
+
   - mood_neutral
+  - capital_alabama
 
 responses:
   utter_greet:
@@ -29,6 +32,10 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+
+  utter_alabama:
+  - text: "The capital of Alabama is Montgomery"
 
 session_config:
   session_expiration_time: 60

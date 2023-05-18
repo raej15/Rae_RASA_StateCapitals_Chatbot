@@ -11,3 +11,8 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Give alabama capitol
+  steps:
+  - intent: capital_alabama
+  - action: utter_alabama
