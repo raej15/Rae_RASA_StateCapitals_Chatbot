@@ -169,3 +169,73 @@ nlu:
     - georgia capitol
     - capitol of georgia
     - georgia
+
+- intent: capital_hawaii
+  examples: |
+    - what is the capitol of hawaii
+    - hawaii capitol
+    - capitol of hawaii
+    - hawaii
+
+- intent: capital_idaho
+  examples: |
+    - what is the capitol of idaho
+    - idaho capitol
+    - capitol of idaho
+    - idaho
+
+- intent: capital_illinois
+  examples: |
+    - what is the capitol of illinois
+    - illinois capitol
+    - capitol of illinois
+    - illinois
+
+- intent: capital_indiana
+  examples: |
+    - what is the capitol of indiana
+    - indiana capitol
+    - capitol of indiana
+    - indiana
+
+- intent: capital_iowa
+  examples: |
+    - what is the capitol of iowa
+    - iowa capitol
+    - capitol of iowa
+    - iowa
+
+- intent: capital_kansas
+  examples: |
+    - what is the capitol of kansas
+    - kansas capitol
+    - capitol of kansas
+    - kansas
+
+- intent: capital_kentucky
+  examples: |
+    - what is the capitol of kentucky
+    - kentucky capitol
+    - capitol of kentucky
+    - kentucky
+
+- intent: capital_louisiana
+  examples: |
+    - what is the capitol of louisiana
+    - louisiana capitol
+    - capitol of louisiana
+    - louisiana
+
+- intent: capital_maine
+  examples: |
+    - what is the capitol of maine
+    - maine capitol
+    - capitol of maine
+    - maine
+
+- intent: capital_maryland
+  examples: |
+    - what is the capitol of maryland
+    - maryland capitol
+    - capitol of maryland
+    - maryland

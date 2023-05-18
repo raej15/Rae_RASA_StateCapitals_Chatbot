@@ -15,13 +15,25 @@ intents:
   - capital_alaska
   - capital_arizona
   - capital_arkansas
-
   - capital_california
   - capital_colorado
   - capital_connecticut
   - capital_delaware
   - capital_florida
   - capital_georgia
+
+  - capital_hawaii
+  - capital_idaho
+  - capital_illinois
+  - capital_indiana
+  - capital_iowa
+  - capital_kansas
+  - capital_kentucky
+  - capital_louisiana
+  - capital_maine
+  - capital_maryland
+
+
 
 
 
@@ -75,6 +87,36 @@ responses:
 
   utter_georgia:
   - text: "The capital of Georgia is Atlanta"
+
+  utter_hawaii:
+  - text: "The capital of Hawaii is Honolulu"
+
+  utter_idaho:
+  - text: "The capital of Idaho is Boise"
+
+  utter_illinois:
+  - text: "The capital of Illinois is Springfield"
+
+  utter_indiana:
+  - text: "The capital of Indiana is Indianapolis"
+
+  utter_iowa:
+  - text: "The capital of Iowa is Des Moines"
+
+  utter_kansas:
+  - text: "The capital of Kansas is Topeka"
+
+  utter_kentucky:
+  - text: "The capital of Kentucky is Frankfort"
+
+  utter_louisiana:
+  - text: "The capital of Louisiana is Baton Rouge"
+
+  utter_maine:
+  - text: "The capital of Maine is Augusta"
+
+  utter_maryland:
+  - text: "The capital of Maryland is Annapolis"
 
 session_config:
   session_expiration_time: 60

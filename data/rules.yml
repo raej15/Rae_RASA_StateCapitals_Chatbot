@@ -63,3 +63,54 @@ rules:
   steps:
   - intent: capital_georgia
   - action: utter_georgia
+
+- rule: Give hawaii capitol
+  steps:
+  - intent: capital_hawaii
+  - action: utter_hawaii
+
+- rule: Give idaho capitol
+  steps:
+  - intent: capital_idaho
+  - action: utter_idaho
+
+- rule: Give illinois capitol
+  steps:
+  - intent: capital_illinois
+  - action: utter_illinois
+
+- rule: Give indiana capitol
+  steps:
+  - intent: capital_indiana
+  - action: utter_indiana
+
+- rule: Give iowa capitol
+  steps:
+  - intent: capital_iowa
+  - action: utter_iowa
+
+- rule: Give kansas capitol
+  steps:
+  - intent: capital_kansas
+  - action: utter_kansas
+
+- rule: Give kentucky capitol
+  steps:
+  - intent: capital_kentucky
+  - action: utter_kentucky
+
+- rule: Give louisiana capitol
+  steps:
+  - intent: capital_louisiana
+  - action: utter_louisiana
+
+- rule: Give maine capitol
+  steps:
+  - intent: capital_maine
+  - action: utter_maine
+
+- rule: Give maryland capitol
+  steps:
+  - intent: capital_maryland
+  - action: utter_maryland
+
