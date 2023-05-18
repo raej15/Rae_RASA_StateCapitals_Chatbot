@@ -16,3 +16,8 @@ rules:
   steps:
   - intent: capital_alabama
   - action: utter_alabama
+
+- rule: Give alaska capitol
+  steps:
+  - intent: capital_alaska
+  - action: utter_alaska

@@ -103,3 +103,10 @@ nlu:
     - alabama capitol
     - capitol of alabama
     - alabama
+
+- intent: capital_alaska
+  examples: |
+    - what is the capitol of alaska
+    - alaska capitol
+    - capitol of alaska
+    - alaska

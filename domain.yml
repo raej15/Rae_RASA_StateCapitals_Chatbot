@@ -12,6 +12,7 @@ intents:
 
   - mood_neutral
   - capital_alabama
+  - capital_alaska
 
 responses:
   utter_greet:
@@ -36,6 +37,9 @@ responses:
 
   utter_alabama:
   - text: "The capital of Alabama is Montgomery"
+
+  utter_alaska:
+  - text: "The capital of Alaska is Juneau"
 
 session_config:
   session_expiration_time: 60
