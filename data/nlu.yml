@@ -89,3 +89,10 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: mood_neutral
+  examples: |
+    - I am fine
+    - fine
+    - I am just okay
+    - my day is boring
