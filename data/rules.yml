@@ -12,6 +12,8 @@ rules:
   - intent: bot_challenge
   - action: utter_iamabot
 
+
+#capitals begin
 - rule: Give alabama capitol
   steps:
   - intent: capital_alabama
@@ -21,3 +23,43 @@ rules:
   steps:
   - intent: capital_alaska
   - action: utter_alaska
+
+- rule: Give arizona capitol
+  steps:
+  - intent: capital_arizona
+  - action: utter_arizona
+
+- rule: Give arkansas capitol
+  steps:
+  - intent: capital_arkansas
+  - action: utter_arkansas
+
+- rule: Give calfornia capitol
+  steps:
+  - intent: capital_calfornia
+  - action: utter_calfornia
+
+- rule: Give colorado capitol
+  steps:
+  - intent: capital_colorado
+  - action: utter_colorado
+
+- rule: Give connecticut capitol
+  steps:
+  - intent: capital_connecticut
+  - action: utter_connecticut
+
+- rule: Give delaware capitol
+  steps:
+  - intent: capital_delaware
+  - action: utter_delaware
+
+- rule: Give florida capitol
+  steps:
+  - intent: capital_florida
+  - action: utter_florida
+
+- rule: Give georgia capitol
+  steps:
+  - intent: capital_georgia
+  - action: utter_georgia

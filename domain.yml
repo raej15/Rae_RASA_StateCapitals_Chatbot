@@ -13,6 +13,17 @@ intents:
   - mood_neutral
   - capital_alabama
   - capital_alaska
+  - capital_arizona
+  - capital_arkansas
+
+  - capital_california
+  - capital_colorado
+  - capital_connecticut
+  - capital_delaware
+  - capital_florida
+  - capital_georgia
+
+
 
 responses:
   utter_greet:
@@ -40,6 +51,30 @@ responses:
 
   utter_alaska:
   - text: "The capital of Alaska is Juneau"
+
+  utter_arizona:
+  - text: "The capital of Arizona is Phoenix"
+
+  utter_arkansas:
+  - text: "The capital of Arkansas is Little Rock"
+
+  utter_california:
+  - text: "The capital of California is Sacramento"
+
+  utter_colorado:
+  - text: "The capital of Colorado is Denver"
+
+  utter_connecticut:
+  - text: "The capital of Connecticut is Hartford"
+
+  utter_delaware:
+  - text: "The capital of Delaware is Dover"
+
+  utter_florida:
+  - text: "The capital of Florida is Tallahassee"
+
+  utter_georgia:
+  - text: "The capital of Georgia is Atlanta"
 
 session_config:
   session_expiration_time: 60

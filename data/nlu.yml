@@ -97,6 +97,9 @@ nlu:
     - I am just okay
     - my day is boring
 
+
+#capitals begin
+
 - intent: capital_alabama
   examples: |
     - what is the capitol of alabama
@@ -110,3 +113,59 @@ nlu:
     - alaska capitol
     - capitol of alaska
     - alaska
+
+- intent: capital_arizona
+  examples: |
+    - what is the capitol of arizona
+    - arizona capitol
+    - capitol of arizona
+    - arizona
+
+- intent: capital_arkansas
+  examples: |
+    - what is the capitol of arkansas
+    - arkansas capitol
+    - capitol of arkansas
+    - arkansas
+
+- intent: capital_california
+  examples: |
+    - what is the capitol of california
+    - california capitol
+    - capitol of california
+    - california
+
+- intent: capital_colorado
+  examples: |
+    - what is the capitol of colorado
+    - colorado capitol
+    - capitol of colorado
+    - colorado
+
+- intent: capital_connecticut
+  examples: |
+    - what is the capitol of connecticut
+    - connecticut capitol
+    - capitol of connecticut
+    - connecticut
+
+- intent: capital_delaware
+  examples: |
+    - what is the capitol of delaware
+    - delaware capitol
+    - capitol of delaware
+    - delaware
+
+- intent: capital_florida
+  examples: |
+    - what is the capitol of florida
+    - florida capitol
+    - capitol of florida
+    - florida
+
+- intent: capital_georgia
+  examples: |
+    - what is the capitol of georgia
+    - georgia capitol
+    - capitol of georgia
+    - georgia
