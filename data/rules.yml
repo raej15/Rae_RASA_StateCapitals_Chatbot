@@ -159,8 +159,107 @@ rules:
   - intent: capital_new_hampshire
   - action: utter_new_hampshire
 
-- rule: Give new_jersey capital
+- rule: Give new jersey capital
   steps:
   - intent: capital_new_jersey
   - action: utter_new_jersey
 
+- rule: Give new mexico capital
+  steps:
+  - intent: capital_new_mexico
+  - action: utter_new_mexico
+
+- rule: Give new york capital
+  steps:
+  - intent: capital_new_york
+  - action: utter_new_york
+
+- rule: Give north carolina capital
+  steps:
+  - intent: capital_north_carolina
+  - action: utter_north_carolina
+
+- rule: Give north dakota capital
+  steps:
+  - intent: capital_north_dakota
+  - action: utter_north_dakota
+
+- rule: Give ohio capital
+  steps:
+  - intent: capital_ohio
+  - action: utter_ohio
+
+- rule: Give oklahoma capital
+  steps:
+  - intent: capital_oklahoma
+  - action: utter_oklahoma
+
+- rule: Give oregon capital
+  steps:
+  - intent: capital_oregon
+  - action: utter_oregon
+
+- rule: Give pennsylvania capital
+  steps:
+  - intent: capital_pennsylvania
+  - action: utter_pennsylvania
+
+- rule: Give rhode island capital
+  steps:
+  - intent: capital_rhode_island
+  - action: utter_rhode_island
+
+- rule: Give south carolina capital
+  steps:
+  - intent: capital_south_carolina
+  - action: utter_south_carolina
+
+- rule: Give south dakota capital
+  steps:
+  - intent: capital_south_dakota
+  - action: utter_south_dakota
+
+- rule: Give tennessee capital
+  steps:
+  - intent: capital_tennessee
+  - action: utter_tennessee
+
+- rule: Give texas capital
+  steps:
+  - intent: capital_texas
+  - action: utter_texas
+
+- rule: Give utah capital
+  steps:
+  - intent: capital_utah
+  - action: utter_utah
+
+- rule: Give vermont capital
+  steps:
+  - intent: capital_vermont
+  - action: utter_vermont
+
+- rule: Give virginia capital
+  steps:
+  - intent: capital_virginia
+  - action: utter_virginia
+
+- rule: Give washington capital
+  steps:
+  - intent: capital_washington
+  - action: utter_washington
+
+- rule: Give west virginia capital
+  steps:
+  - intent: capital_west_virginia
+  - action: utter_west_virginia
+
+- rule: Give wisconsin capital
+  steps:
+  - intent: capital_wisconsin
+  - action: utter_wisconsin
+
+- rule: Give wyoming capital
+  steps:
+  - intent: capital_wyoming
+  - action: utter_wyoming

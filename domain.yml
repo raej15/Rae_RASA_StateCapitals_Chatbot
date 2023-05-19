@@ -21,7 +21,6 @@ intents:
   - capital_delaware
   - capital_florida
   - capital_georgia
-
   - capital_hawaii
   - capital_idaho
   - capital_illinois
@@ -32,7 +31,6 @@ intents:
   - capital_louisiana
   - capital_maine
   - capital_maryland
-
   - capital_massachusetts
   - capital_michigan
   - capital_minnesota
@@ -43,12 +41,26 @@ intents:
   - capital_nevada
   - capital_new_hampshire
   - capital_new_jersey
-
- # - capital_new_mexico
-
-
-
-
+  - capital_new_mexico
+  - capital_new_york
+  - capital_north_carolina
+  - capital_north_dakota
+  - capital_ohio
+  - capital_oklahoma
+  - capital_oregon
+  - capital_pennsylvania
+  - capital_rhode_island
+  - capital_south_carolina
+  - capital_south_dakota
+  - capital_tennessee
+  - capital_texas
+  - capital_utah
+  - capital_vermont
+  - capital_virginia
+  - capital_washington
+  - capital_west_virginia
+  - capital_wisconsin
+  - capital_wyoming
 
 responses:
   utter_greet:
@@ -160,6 +172,66 @@ responses:
 
   utter_new_jersey:
   - text: "The capital of New Jersey is Trenton"
+
+  utter_new_mexico:
+  - text: "The capital of New Mexico is Santa Fe"
+
+  utter_new_york:
+  - text: "The capital of New York is Albany"
+
+  utter_north_carolina:
+  - text: "The capital of North Carolina is Raleigh"
+
+  utter_north_dakota:
+  - text: "The capital of North Dakota is Bismarck"
+
+  utter_ohio:
+  - text: "The capital of Ohio is Columbus"
+
+  utter_oklahoma:
+  - text: "The capital of Oklahoma is Oklahoma City"
+
+  utter_oregon:
+  - text: "The capital of Oregon is Salem"
+
+  utter_pennsylvania:
+  - text: "The capital of Pennsylvania is Harrisburg"
+
+  utter_rhode_island:
+  - text: "The capital of Rhode Island is Providence"
+
+  utter_south_carolina:
+  - text: "The capital of South Carolina is Columbia"
+
+  utter_south_dakota:
+  - text: "The capital of South Dakota is Pierre"
+
+  utter_tennessee:
+  - text: "The capital of Tennessee is Nashville"
+
+  utter_texas:
+  - text: "The capital of Texas is Austin"
+
+  utter_utah:
+  - text: "The capital of Utah is Salt Lake City"
+
+  utter_vermont:
+  - text: "The capital of Vermont is Montpelier"
+
+  utter_virginia:
+  - text: "The capital of Virginia is Richmond"
+
+  utter_washington:
+  - text: "The capital of Washington is Olympia"
+
+  utter_west_virginia:
+  - text: "The capital of West Virginia is Charleston"
+
+  utter_wisconsin:
+  - text: "The capital of Wisconsin is Madison"
+
+  utter_wyoming:
+  - text: "The capital of Wyoming is Cheyenne"
 
 session_config:
   session_expiration_time: 60

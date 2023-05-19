@@ -1,0 +1,250 @@
+- rule: Give alabama capital
+  steps:
+  - intent: capital_alabama
+  - action: utter_alabama
+
+- rule: Give alaska capital
+  steps:
+  - intent: capital_alaska
+  - action: utter_alaska
+
+- rule: Give arizona capital
+  steps:
+  - intent: capital_arizona
+  - action: utter_arizona
+
+- rule: Give arkansas capital
+  steps:
+  - intent: capital_arkansas
+  - action: utter_arkansas
+
+- rule: Give california capital
+  steps:
+  - intent: capital_california
+  - action: utter_california
+
+- rule: Give colorado capital
+  steps:
+  - intent: capital_colorado
+  - action: utter_colorado
+
+- rule: Give connecticut capital
+  steps:
+  - intent: capital_connecticut
+  - action: utter_connecticut
+
+- rule: Give delaware capital
+  steps:
+  - intent: capital_delaware
+  - action: utter_delaware
+
+- rule: Give florida capital
+  steps:
+  - intent: capital_florida
+  - action: utter_florida
+
+- rule: Give georgia capital
+  steps:
+  - intent: capital_georgia
+  - action: utter_georgia
+
+- rule: Give hawaii capital
+  steps:
+  - intent: capital_hawaii
+  - action: utter_hawaii
+
+- rule: Give idaho capital
+  steps:
+  - intent: capital_idaho
+  - action: utter_idaho
+
+- rule: Give illinois capital
+  steps:
+  - intent: capital_illinois
+  - action: utter_illinois
+
+- rule: Give indiana capital
+  steps:
+  - intent: capital_indiana
+  - action: utter_indiana
+
+- rule: Give iowa capital
+  steps:
+  - intent: capital_iowa
+  - action: utter_iowa
+
+- rule: Give kansas capital
+  steps:
+  - intent: capital_kansas
+  - action: utter_kansas
+
+- rule: Give kentucky capital
+  steps:
+  - intent: capital_kentucky
+  - action: utter_kentucky
+
+- rule: Give louisiana capital
+  steps:
+  - intent: capital_louisiana
+  - action: utter_louisiana
+
+- rule: Give maine capital
+  steps:
+  - intent: capital_maine
+  - action: utter_maine
+
+- rule: Give maryland capital
+  steps:
+  - intent: capital_maryland
+  - action: utter_maryland
+
+- rule: Give massachusetts capital
+  steps:
+  - intent: capital_massachusetts
+  - action: utter_massachusetts
+
+- rule: Give michigan capital
+  steps:
+  - intent: capital_michigan
+  - action: utter_michigan
+
+- rule: Give minnesota capital
+  steps:
+  - intent: capital_minnesota
+  - action: utter_minnesota
+
+- rule: Give mississippi capital
+  steps:
+  - intent: capital_mississippi
+  - action: utter_mississippi
+
+- rule: Give missouri capital
+  steps:
+  - intent: capital_missouri
+  - action: utter_missouri
+
+- rule: Give montana capital
+  steps:
+  - intent: capital_montana
+  - action: utter_montana
+
+- rule: Give nebraska capital
+  steps:
+  - intent: capital_nebraska
+  - action: utter_nebraska
+
+- rule: Give nevada capital
+  steps:
+  - intent: capital_nevada
+  - action: utter_nevada
+
+- rule: Give new hampshire capital
+  steps:
+  - intent: capital_new_hampshire
+  - action: utter_new_hampshire
+
+- rule: Give new jersey capital
+  steps:
+  - intent: capital_new_jersey
+  - action: utter_new_jersey
+
+- rule: Give new mexico capital
+  steps:
+  - intent: capital_new_mexico
+  - action: utter_new_mexico
+
+- rule: Give new york capital
+  steps:
+  - intent: capital_new_york
+  - action: utter_new_york
+
+- rule: Give north carolina capital
+  steps:
+  - intent: capital_north_carolina
+  - action: utter_north_carolina
+
+- rule: Give north dakota capital
+  steps:
+  - intent: capital_north_dakota
+  - action: utter_north_dakota
+
+- rule: Give ohio capital
+  steps:
+  - intent: capital_ohio
+  - action: utter_ohio
+
+- rule: Give oklahoma capital
+  steps:
+  - intent: capital_oklahoma
+  - action: utter_oklahoma
+
+- rule: Give oregon capital
+  steps:
+  - intent: capital_oregon
+  - action: utter_oregon
+
+- rule: Give pennsylvania capital
+  steps:
+  - intent: capital_pennsylvania
+  - action: utter_pennsylvania
+
+- rule: Give rhode island capital
+  steps:
+  - intent: capital_rhode_island
+  - action: utter_rhode_island
+
+- rule: Give south carolina capital
+  steps:
+  - intent: capital_south_carolina
+  - action: utter_south_carolina
+
+- rule: Give south dakota capital
+  steps:
+  - intent: capital_south_dakota
+  - action: utter_south_dakota
+
+- rule: Give tennessee capital
+  steps:
+  - intent: capital_tennessee
+  - action: utter_tennessee
+
+- rule: Give texas capital
+  steps:
+  - intent: capital_texas
+  - action: utter_texas
+
+- rule: Give utah capital
+  steps:
+  - intent: capital_utah
+  - action: utter_utah
+
+- rule: Give vermont capital
+  steps:
+  - intent: capital_vermont
+  - action: utter_vermont
+
+- rule: Give virginia capital
+  steps:
+  - intent: capital_virginia
+  - action: utter_virginia
+
+- rule: Give washington capital
+  steps:
+  - intent: capital_washington
+  - action: utter_washington
+
+- rule: Give west virginia capital
+  steps:
+  - intent: capital_west_virginia
+  - action: utter_west_virginia
+
+- rule: Give wisconsin capital
+  steps:
+  - intent: capital_wisconsin
+  - action: utter_wisconsin
+
+- rule: Give wyoming capital
+  steps:
+  - intent: capital_wyoming
+  - action: utter_wyoming
+
