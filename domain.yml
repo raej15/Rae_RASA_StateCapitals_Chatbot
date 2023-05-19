@@ -9,8 +9,8 @@ intents:
   - mood_unhappy
   - bot_challenge
 
-
   - mood_neutral
+
   - capital_alabama
   - capital_alaska
   - capital_arizona
@@ -32,6 +32,19 @@ intents:
   - capital_louisiana
   - capital_maine
   - capital_maryland
+
+  - capital_massachusetts
+  - capital_michigan
+  - capital_minnesota
+  - capital_mississippi
+  - capital_missouri
+  - capital_montana
+  - capital_nebraska
+  - capital_nevada
+  - capital_new_hampshire
+  - capital_new_jersey
+
+ # - capital_new_mexico
 
 
 
@@ -117,6 +130,36 @@ responses:
 
   utter_maryland:
   - text: "The capital of Maryland is Annapolis"
+
+  utter_massachusetts:
+  - text: "The capital of Massachusetts is Boston"
+
+  utter_michigan:
+  - text: "The capital of Michigan is Lansing"
+
+  utter_minnesota:
+  - text: "The capital of Minnesota is Saint Paul"
+
+  utter_mississippi:
+  - text: "The capital of Mississippi is Jackson"
+
+  utter_missouri:
+  - text: "The capital of Missouri is Jefferson City"
+
+  utter_montana:
+  - text: "The capital of Montana is Helena"
+
+  utter_nebraska:
+  - text: "The capital of Nebraska is Lincoln"
+
+  utter_nevada:
+  - text: "The capital of Nevada is Carson City"
+
+  utter_new_hampshire:
+  - text: "The capital of New Hampshire is Concord"
+
+  utter_new_jersey:
+  - text: "The capital of New Jersey is Trenton"
 
 session_config:
   session_expiration_time: 60

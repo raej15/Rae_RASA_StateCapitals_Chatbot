@@ -102,140 +102,210 @@ nlu:
 
 - intent: capital_alabama
   examples: |
-    - what is the capitol of alabama
-    - alabama capitol
-    - capitol of alabama
+    - what is the capital of alabama
+    - alabama capital
+    - capital of alabama
     - alabama
 
 - intent: capital_alaska
   examples: |
-    - what is the capitol of alaska
-    - alaska capitol
-    - capitol of alaska
+    - what is the capital of alaska
+    - alaska capital
+    - capital of alaska
     - alaska
 
 - intent: capital_arizona
   examples: |
-    - what is the capitol of arizona
-    - arizona capitol
-    - capitol of arizona
+    - what is the capital of arizona
+    - arizona capital
+    - capital of arizona
     - arizona
 
 - intent: capital_arkansas
   examples: |
-    - what is the capitol of arkansas
-    - arkansas capitol
-    - capitol of arkansas
+    - what is the capital of arkansas
+    - arkansas capital
+    - capital of arkansas
     - arkansas
 
 - intent: capital_california
   examples: |
-    - what is the capitol of california
-    - california capitol
-    - capitol of california
+    - what is the capital of california
+    - california capital
+    - capital of california
     - california
 
 - intent: capital_colorado
   examples: |
-    - what is the capitol of colorado
-    - colorado capitol
-    - capitol of colorado
+    - what is the capital of colorado
+    - colorado capital
+    - capital of colorado
     - colorado
 
 - intent: capital_connecticut
   examples: |
-    - what is the capitol of connecticut
-    - connecticut capitol
-    - capitol of connecticut
+    - what is the capital of connecticut
+    - connecticut capital
+    - capital of connecticut
     - connecticut
 
 - intent: capital_delaware
   examples: |
-    - what is the capitol of delaware
-    - delaware capitol
-    - capitol of delaware
+    - what is the capital of delaware
+    - delaware capital
+    - capital of delaware
     - delaware
 
 - intent: capital_florida
   examples: |
-    - what is the capitol of florida
-    - florida capitol
-    - capitol of florida
+    - what is the capital of florida
+    - florida capital
+    - capital of florida
     - florida
 
 - intent: capital_georgia
   examples: |
-    - what is the capitol of georgia
-    - georgia capitol
-    - capitol of georgia
+    - what is the capital of georgia
+    - georgia capital
+    - capital of georgia
     - georgia
 
 - intent: capital_hawaii
   examples: |
-    - what is the capitol of hawaii
-    - hawaii capitol
-    - capitol of hawaii
+    - what is the capital of hawaii
+    - hawaii capital
+    - capital of hawaii
     - hawaii
 
 - intent: capital_idaho
   examples: |
-    - what is the capitol of idaho
-    - idaho capitol
-    - capitol of idaho
+    - what is the capital of idaho
+    - idaho capital
+    - capital of idaho
     - idaho
 
 - intent: capital_illinois
   examples: |
-    - what is the capitol of illinois
-    - illinois capitol
-    - capitol of illinois
+    - what is the capital of illinois
+    - illinois capital
+    - capital of illinois
     - illinois
 
 - intent: capital_indiana
   examples: |
-    - what is the capitol of indiana
-    - indiana capitol
-    - capitol of indiana
+    - what is the capital of indiana
+    - indiana capital
+    - capital of indiana
     - indiana
 
 - intent: capital_iowa
   examples: |
-    - what is the capitol of iowa
-    - iowa capitol
-    - capitol of iowa
+    - what is the capital of iowa
+    - iowa capital
+    - capital of iowa
     - iowa
 
 - intent: capital_kansas
   examples: |
-    - what is the capitol of kansas
-    - kansas capitol
-    - capitol of kansas
+    - what is the capital of kansas
+    - kansas capital
+    - capital of kansas
     - kansas
 
 - intent: capital_kentucky
   examples: |
-    - what is the capitol of kentucky
-    - kentucky capitol
-    - capitol of kentucky
+    - what is the capital of kentucky
+    - kentucky capital
+    - capital of kentucky
     - kentucky
 
 - intent: capital_louisiana
   examples: |
-    - what is the capitol of louisiana
-    - louisiana capitol
-    - capitol of louisiana
+    - what is the capital of louisiana
+    - louisiana capital
+    - capital of louisiana
     - louisiana
 
 - intent: capital_maine
   examples: |
-    - what is the capitol of maine
-    - maine capitol
-    - capitol of maine
+    - what is the capital of maine
+    - maine capital
+    - capital of maine
     - maine
 
 - intent: capital_maryland
   examples: |
-    - what is the capitol of maryland
-    - maryland capitol
-    - capitol of maryland
+    - what is the capital of maryland
+    - maryland capital
+    - capital of maryland
     - maryland
+
+- intent: capital_massachusetts
+  examples: |
+    - what is the capital of massachusetts
+    - massachusetts capital
+    - capital of massachusetts
+    - massachusetts
+
+- intent: capital_michigan
+  examples: |
+    - what is the capital of michigan
+    - michigan capital
+    - capital of michigan
+    - michigan
+
+- intent: capital_minnesota
+  examples: |
+    - what is the capital of minnesota
+    - minnesota capital
+    - capital of minnesota
+    - minnesota
+
+- intent: capital_mississippi
+  examples: |
+    - what is the capital of mississippi
+    - mississippi capital
+    - capital of mississippi
+    - mississippi
+
+- intent: capital_missouri
+  examples: |
+    - what is the capital of missouri
+    - missouri capital
+    - capital of missouri
+    - missouri
+
+- intent: capital_montana
+  examples: |
+    - what is the capital of montana
+    - montana capital
+    - capital of montana
+    - montana
+
+- intent: capital_nebraska
+  examples: |
+    - what is the capital of nebraska
+    - nebraska capital
+    - capital of nebraska
+    - nebraska
+
+- intent: capital_nevada
+  examples: |
+    - what is the capital of nevada
+    - nevada capital
+    - capital of nevada
+    - nevada
+
+- intent: capital_new_hampshire
+  examples: |
+    - what is the capital of new hampshire
+    - maryland capital
+    - capital of new hampshire
+    - new hampshire
+
+- intent: capital_new_jersey
+  examples: |
+    - what is the capital of new jersey
+    - maryland new jersey
+    - new jersey of maryland
+    - new jersey

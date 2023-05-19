@@ -14,103 +14,153 @@ rules:
 
 
 #capitals begin
-- rule: Give alabama capitol
+- rule: Give alabama capital
   steps:
   - intent: capital_alabama
   - action: utter_alabama
 
-- rule: Give alaska capitol
+- rule: Give alaska capital
   steps:
   - intent: capital_alaska
   - action: utter_alaska
 
-- rule: Give arizona capitol
+- rule: Give arizona capital
   steps:
   - intent: capital_arizona
   - action: utter_arizona
 
-- rule: Give arkansas capitol
+- rule: Give arkansas capital
   steps:
   - intent: capital_arkansas
   - action: utter_arkansas
 
-- rule: Give california capitol
+- rule: Give california capital
   steps:
   - intent: capital_california
   - action: utter_california
 
-- rule: Give colorado capitol
+- rule: Give colorado capital
   steps:
   - intent: capital_colorado
   - action: utter_colorado
 
-- rule: Give connecticut capitol
+- rule: Give connecticut capital
   steps:
   - intent: capital_connecticut
   - action: utter_connecticut
 
-- rule: Give delaware capitol
+- rule: Give delaware capital
   steps:
   - intent: capital_delaware
   - action: utter_delaware
 
-- rule: Give florida capitol
+- rule: Give florida capital
   steps:
   - intent: capital_florida
   - action: utter_florida
 
-- rule: Give georgia capitol
+- rule: Give georgia capital
   steps:
   - intent: capital_georgia
   - action: utter_georgia
 
-- rule: Give hawaii capitol
+- rule: Give hawaii capital
   steps:
   - intent: capital_hawaii
   - action: utter_hawaii
 
-- rule: Give idaho capitol
+- rule: Give idaho capital
   steps:
   - intent: capital_idaho
   - action: utter_idaho
 
-- rule: Give illinois capitol
+- rule: Give illinois capital
   steps:
   - intent: capital_illinois
   - action: utter_illinois
 
-- rule: Give indiana capitol
+- rule: Give indiana capital
   steps:
   - intent: capital_indiana
   - action: utter_indiana
 
-- rule: Give iowa capitol
+- rule: Give iowa capital
   steps:
   - intent: capital_iowa
   - action: utter_iowa
 
-- rule: Give kansas capitol
+- rule: Give kansas capital
   steps:
   - intent: capital_kansas
   - action: utter_kansas
 
-- rule: Give kentucky capitol
+- rule: Give kentucky capital
   steps:
   - intent: capital_kentucky
   - action: utter_kentucky
 
-- rule: Give louisiana capitol
+- rule: Give louisiana capital
   steps:
   - intent: capital_louisiana
   - action: utter_louisiana
 
-- rule: Give maine capitol
+- rule: Give maine capital
   steps:
   - intent: capital_maine
   - action: utter_maine
 
-- rule: Give maryland capitol
+- rule: Give maryland capital
   steps:
   - intent: capital_maryland
   - action: utter_maryland
+
+- rule: Give massachusetts capital
+  steps:
+  - intent: capital_massachusetts
+  - action: utter_massachusetts
+
+- rule: Give michigan capital
+  steps:
+  - intent: capital_michigan
+  - action: utter_michigan
+
+- rule: Give minnesota capital
+  steps:
+  - intent: capital_minnesota
+  - action: utter_minnesota
+
+- rule: Give mississippi capital
+  steps:
+  - intent: capital_mississippi
+  - action: utter_mississippi
+
+- rule: Give missouri capital
+  steps:
+  - intent: capital_missouri
+  - action: utter_missouri
+
+- rule: Give montana capital
+  steps:
+  - intent: capital_montana
+  - action: utter_montana
+
+- rule: Give nebraska capital
+  steps:
+  - intent: capital_nebraska
+  - action: utter_nebraska
+
+- rule: Give nevada capital
+  steps:
+  - intent: capital_nevada
+  - action: utter_nevada
+
+- rule: Give new hampshire capital
+  steps:
+  - intent: capital_new_hampshire
+  - action: utter_new_hampshire
+
+- rule: Give new_jersey capital
+  steps:
+  - intent: capital_new_jersey
+  - action: utter_new_jersey
 
