@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <title>Rae's Chatbot</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,200,300,400,700">
+  
+  </head>
+<body>
+    <div class="mainCont">
+        <h1>State Capitals Chatbot</h1>
+        <div class="description">
+            <h2>Begin chatting by clicking the circle in the bottom right.</h2>
+        </div>
+    </div>
+        <br>
+        <script>!(function () {
+          localStorage.clear();
+          let e = document.createElement("script"),
+            t = document.head || document.getElementsByTagName("head")[0];
+          (e.src =
+            "https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.js"),
+            // Replace 1.x.x with the version that you want
+            (e.async = !0),
+            (e.onload = () => {
+              window.WebChat.default(
+                {
+                  initPayload: '/greet',
+                  customData: { language: "en" },
+                  socketUrl: "http://localhost:5005",
+                  // add other props here
+                },
+                null
+              );
+            }),
+            t.insertBefore(e, t.firstChild);
+        })();
+        </script>
+</html>
+</body>

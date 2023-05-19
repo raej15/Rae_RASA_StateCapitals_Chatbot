@@ -1,0 +1,48 @@
+body {
+    background-image: url("images/rasa_bgd.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: "Lato", sans-serif;
+
+    border-radius: 6px;
+    height: 120px;
+  }
+
+.mainCont {
+    
+    width: 50%;
+    margin: 40px;
+    padding: 100px 0;
+    border-radius: 25px;
+
+}
+
+.description {
+    width: 40%;
+    margin: 15px;
+
+}
+
+
+
+h1 {
+    text-transform: capitalize;
+    color:white;
+    text-align: left;
+    font-size: 50px;
+    margin: 15px;
+    font-weight: 700;
+
+
+}
+
+h2 {
+    color:white;
+    font-weight: 200;
+    font-size:x-large;
+
+
+}
