@@ -30,21 +30,24 @@ body .rw-conversation-container .rw-message .rw-client{
 }
 
 .header {
-    background-color: #78a682;
+    /*background-color: #78a682;*/
     width: 100%;
     overflow: auto;
+    align-content: end;
 }
 
 .header a{
-    float:left;
-    text-align: center;
+    float:right;
+    text-align:right;
     padding-left:30px;
+    padding-right:30px;
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: medium;
     font-weight: bold;
     color: white;
     text-decoration: none;
+    
 
 }
 
