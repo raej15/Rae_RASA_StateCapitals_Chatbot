@@ -10,6 +10,7 @@ intents:
   - bot_challenge
 
   - mood_neutral
+  - welcome_message
 
   - capital_alabama
   - capital_alaska
@@ -83,6 +84,9 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
 
+  utter_welcome:
+  - text: "I am trained on the capitals of all US states. Try asking about your favorite state's capital."
+  
   utter_alabama:
   - text: "The capital of Alabama is Montgomery"
 

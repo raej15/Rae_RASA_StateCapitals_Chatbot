@@ -3,15 +3,27 @@
     <title>Rae's Chatbot</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,200,300,400,700">
-  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 <body>
-    <div class="mainCont">
-        <h1>State Capitals Chatbot</h1>
-        <div class="description">
-            <h2>Begin chatting by clicking the circle in the bottom right.</h2>
-        </div>
+  <!-- 
+  <div class="header">
+    <a class="active" href="#"><i class="fa fa-fw fa-commenting"></i> A RASA Chatbot</a> 
+  </div> 
+  -->
+  <div class="mainCont">
+    <div class="mainTXT">
+      <h1>State Capitals Chatbot</h1>
+      <div class="description">
+          <h2>
+            Begin chatting by clicking the circle in the <span style="color:#F4C34C">bottom right.</span>
+          </h2>
+      </div>
     </div>
+    <div class="map">
+      <object data="assets/large-USA.svg" width="650" height=auto> </object>
+    </div>
+  </div>
         <br>
         <script>!(function () {
           localStorage.clear();
@@ -28,6 +40,11 @@
                   customData: { language: "en" },
                   socketUrl: "http://localhost:5005",
                   // add other props here
+                  title: 'Your Convo',
+                  subtitle: 'Say hi to get started!',
+                  inputTextFieldHint: 'Enter a state...',
+                  showFullScreenButton:true,
+                  profileAvatar: 'assets/USA.svg'
                 },
                 null
               );
@@ -35,5 +52,6 @@
             t.insertBefore(e, t.firstChild);
         })();
         </script>
+
 </html>
 </body>

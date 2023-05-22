@@ -12,6 +12,10 @@ rules:
   - intent: bot_challenge
   - action: utter_iamabot
 
+- rule: welcome
+  steps:
+  - intent: welcome_message
+  - action: utter_welcome
 
 #capitals begin
 - rule: Give alabama capital

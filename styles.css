@@ -1,29 +1,68 @@
 body {
-    background-image: url("images/rasa_bgd.jpg");
+    margin: 0;
+    padding: 0;
+   /* background-image: url("assets/forrest_bgrd.jpg");
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    font-family: "Lato", sans-serif;
-
-    border-radius: 6px;
-    height: 120px;
-  }
-
-.mainCont {
-    
-    width: 50%;
-    margin: 40px;
-    padding: 100px 0;
-    border-radius: 25px;
+    */
+    background-color: #203A25;
+    font-family: "Georgia", serif;
 
 }
 
-.description {
-    width: 40%;
-    margin: 15px;
+body .rw-conversation-container .rw-header{background-color: #F4C34C;}
 
+body .rw-launcher{
+    background-color: #F4C34C;
+    box-shadow: none;
+}
+
+body .rw-conversation-container .rw-message .rw-client{
+    background-color: #BE993D;
+}
+
+
+.map {
+    overflow: auto;
+}
+
+.header {
+    background-color: #78a682;
+    width: 100%;
+    overflow: auto;
+}
+
+.header a{
+    float:left;
+    text-align: center;
+    padding-left:30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+
+}
+
+.mainCont {
+    display: flex;
+    align-items: left;
+    width: 100%;
+    margin: 30px;
+    padding-top: 100px;
+    overflow: auto;
+
+}
+
+
+.description {
+    width: 50%;
+    margin: 15px;
+    color:#BE993D;
 }
 
 
@@ -34,15 +73,23 @@ h1 {
     text-align: left;
     font-size: 50px;
     margin: 15px;
-    font-weight: 700;
-
+    padding-bottom: 16px;
+    font-weight:large;
 
 }
 
 h2 {
     color:white;
-    font-weight: 200;
+    font-weight: 300;
     font-size:x-large;
 
+
+}
+
+h3 {
+    color:white;
+    text-align: left;
+    font-weight:normal;
+    padding: 10px;
 
 }

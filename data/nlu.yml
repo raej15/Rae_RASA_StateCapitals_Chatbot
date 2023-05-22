@@ -97,6 +97,9 @@ nlu:
     - I am just okay
     - my day is boring
 
+- intent: welcome_message
+  examples: |
+  
 
 #capitals begin
 
