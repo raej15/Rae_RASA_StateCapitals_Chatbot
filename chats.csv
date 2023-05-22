@@ -1,0 +1,6 @@
+input_time|conversation_id|count|intent|user_input| entity_name|entity_value|action|bot_reply|
+2023-05-22 11:32:05.399935|ea384bec9d644eaa98ed7d5c97c686fa|U0|greet|/greet|
+2023-05-22 11:32:05.400024|ea384bec9d644eaa98ed7d5c97c686fa|B0|||||utter_greet|Hey! How are you?....
+2023-05-22 11:32:05.400070|ea384bec9d644eaa98ed7d5c97c686fa|B1|||||utter_welcome|Try asking about your favorite state's capital.
+2023-05-22 11:32:05.400102|ea384bec9d644eaa98ed7d5c97c686fa|U1|goodbye|bye|
+2023-05-22 11:32:05.400142|ea384bec9d644eaa98ed7d5c97c686fa|B2|||||utter_goodbye|Goodbye

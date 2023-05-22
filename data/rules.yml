@@ -6,11 +6,13 @@ rules:
   steps:
   - intent: goodbye
   - action: utter_goodbye
+  - action: action_save_conversation
 
 - rule: Say 'I am a bot' anytime the user challenges
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+  - action: action_save_conversation
 
 - rule: welcome
   steps:

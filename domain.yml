@@ -237,6 +237,9 @@ responses:
   utter_wyoming:
   - text: "The capital of Wyoming is Cheyenne"
 
+actions:
+  - action_save_conversation
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
