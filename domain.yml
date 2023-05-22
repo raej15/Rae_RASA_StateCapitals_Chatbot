@@ -75,17 +75,17 @@ responses:
   - text: "Did that help you?"
 
   utter_happy:
-  - text: "Great, carry on!"
+  - text: "Wonderful!"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Goodbye"
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
 
 
   utter_welcome:
-  - text: "I am trained on the capitals of all US states. Try asking about your favorite state's capital."
+  - text: "Try asking about your favorite state's capital."
   
   utter_alabama:
   - text: "The capital of Alabama is Montgomery"

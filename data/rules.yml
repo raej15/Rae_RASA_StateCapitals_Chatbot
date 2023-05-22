@@ -14,7 +14,7 @@ rules:
 
 - rule: welcome
   steps:
-  - intent: welcome_message
+  - action: utter_greet
   - action: utter_welcome
 
 #capitals begin
