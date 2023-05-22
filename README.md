@@ -6,4 +6,4 @@
 - Images
 
 ## Demo
-<img src="assets/chatbot_demo.gif" height="400">
+<img src="assets/chatbot_demo.gif"  width="auto">
